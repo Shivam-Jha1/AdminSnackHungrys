@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#3AAF3A</color>
+    <color name="yellow">#E4D22D</color>
+    <color name="blue">#445AD8</color>
+    <color name="orange">#F44F1B</color>
+    <color name="textColor1">#333333</color>
+    <color name="textColor2">#FF6347</color>
+    <color name="textColor3">#FF4500</color>
+    <color name="textColor">#FF4500</color>
+    <color name="bgColor1">#FFFAF0</color>
+    <color name="iconColor">#F8DF05</color>
+    <color name="startColor">#F8DF05</color>
+    <color name="endColor">#F8DF05</color>
+    <color name="btnColor1">#FF6347</color>
+    <color name="btnColor2">#FFA500</color>
+    <color name="btnColor3">#FFD700</color>
+</resources>
